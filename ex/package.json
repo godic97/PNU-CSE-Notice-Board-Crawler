@@ -1,0 +1,24 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "description": "tutorials",
+  "main": "webserver_test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "godic97",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godic/Node.js_Practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/godic/Node.js_Practice/issues"
+  },
+  "homepage": "https://github.com/godic/Node.js_Practice#readme"
+}
