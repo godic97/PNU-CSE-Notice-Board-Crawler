@@ -1,0 +1,15 @@
+{
+  "name": "rssparser",
+  "version": "1.0.0",
+  "description": "RSS parser of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "godic97",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "rss-parser": "^3.7.3"
+  }
+}
